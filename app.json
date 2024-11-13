@@ -1,0 +1,58 @@
+{
+    "id": "bdcddfab-21e6-4987-a9a8-8c44982f785e",
+    "name": "Gestion de caisse",
+    "publisher": "Default Publisher",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [
+        {
+            "id": "E2AE191D-8829-44C3-A373-3749A2742D4D",
+            "name": "Service Declaration",
+            "publisher": "Microsoft",
+            "version": "24.0.16410.18056"
+        },
+        {
+            "id": "70912191-3C4C-49FC-A1DE-BC6EA1AC9DA6",
+            "name": "Intrastat Core",
+            "publisher": "Microsoft",
+            "version": "24.0.16410.18056"
+        },
+        {
+            "id": "EC255F57-31D0-4CA2-B751-F2FA7C745ABB",
+            "name": "Shopify Connector",
+            "publisher": "Microsoft",
+            "version": "24.0.16410.18056"
+        },
+        {
+            "id": "C526B3E9-B8CA-4683-81BA-FCD5F6B1472A",
+            "name": "Sales and Inventory Forecast",
+            "publisher": "Microsoft",
+            "version": "24.0.16410.18056"
+        }
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "24.0.0.0",
+    "idRanges": [
+        {
+            "from": 55000,
+            "to": 55999
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "13.0",
+    "features": [
+        "NoImplicitWith",
+        "TranslationFile"
+    ]
+}

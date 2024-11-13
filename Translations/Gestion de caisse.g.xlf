@@ -1,0 +1,614 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Gestion de caisse">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3184485975 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activity Cash Register</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Activity Cash Register - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3184485975 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Activity Cash Register - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3184485975 - Field 3229632535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Role</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Activity Cash Register - Field UserRole - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 546669208 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Register</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Pos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 546669208 - Field 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Pos - Field Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 546669208 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Pos - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 546669208 - Field 3449888769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorized cash fund</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Pos - Field Authorized cash fund - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 546669208 - Field 2701107043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorized Credit Sale</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Pos - Field Authorized Credit Sale - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 546669208 - Field 1168854536 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Pos - Field Cash Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 546669208 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Pos - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 546669208 - Field 4226980658 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Point Of Sale</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Pos - Field Point of sale - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 546669208 - Field 4271920584 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total collection</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Pos - Field Total collection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 546669208 - Field 4051701099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total expenses</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Pos - Field Total expenses - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 546669208 - Field 3588241255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total transactions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Pos - Field Total transactions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1393206246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Register Users</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Users - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1393206246 - Field 659317815 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Users - Field Activity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1393206246 - Field 4111046507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Birth Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Users - Field BirthDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1393206246 - Field 644513093 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Users - Field E_mail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1393206246 - Field 3973653471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>First Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Users - Field FirstName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1393206246 - Field 555300569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Users - Field PhoneNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1393206246 - Field 2111612081 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Second Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Users - Field SecondName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1393206246 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Users - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1393206246 - Field 1259317184 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cash Register Users - Field User Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2461787606 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Create Order - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2461787606 - Field 3307755171 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Create Order - Field Customer Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2461787606 - Field 4236375318 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fidelity Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Create Order - Field Fidelity Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2461787606 - Field 2981864456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Full Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Create Order - Field Full Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2461787606 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Create Order - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2461787606 - Field 2632124822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Create Order - Field Order Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2461787606 - Field 2070199485 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Create Order - Field Order Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2461787606 - Field 2495133697 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Create Order - Field Phone Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2461787606 - Field 2897649021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Session Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Create Order - Field Session Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2461787606 - Field 3776794752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Create Order - Field User Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2805771090 - Field 1168854536 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Payment Methods - Field Cash Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2805771090 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Payment Methods - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2805771090 - Field 624314277 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment methods Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Payment Methods - Field Payment methods Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1384371723 - Field 687971871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Session Part - Field Discount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1384371723 - Field 2105307182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Session Part - Field Inventory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1384371723 - Field 1877094740 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Session Part - Field Item Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1384371723 - Field 1735507514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Session Part - Field Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1384371723 - Field 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Session Part - Field Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1384371723 - Field 2351019434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price Incl. Tax</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Session Part - Field Price Incl. Tax - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1384371723 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Session Part - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1384371723 - Field 2897649021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Session Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Session Part - Field Session Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1821335367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sessions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sessions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1821335367 - Field 691885684 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Fund</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sessions - Field Cash Fund - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1821335367 - Field 1168854536 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sessions - Field Cash Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1821335367 - Field 3444525104 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash User email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sessions - Field Cash User email - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1821335367 - Field 242425539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closing Date&amp;Hour</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sessions - Field Closing Date&amp;Hour - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1821335367 - Field 2220665716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Final Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sessions - Field Final Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1821335367 - Field 363586974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Initial Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sessions - Field Initial Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1821335367 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sessions - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1821335367 - Field 122879042 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opening Date&amp;Hour</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sessions - Field Opening Date&amp;Hour - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1821335367 - Field 2897649021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Session Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sessions - Field Session Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1821335367 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sessions - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1821335367 - Field 2654823408 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sessions - Field Theoritical Total - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1821335367 - Field 4271920584 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total collection</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sessions - Field Total collection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1821335367 - Field 4051701099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total expenses</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sessions - Field Total expenses - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1821335367 - Field 3588241255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total transactions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sessions - Field Total transactions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1821335367 - Field 1546913952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sessions - Field User id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 888818610 - Field 4111046507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Birth Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Users Pos - Field BirthDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 888818610 - Field 3543129988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blocked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Users Pos - Field Blocked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 888818610 - Field 644513093 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Users Pos - Field E_mail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 888818610 - Field 585970492 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>first-name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Users Pos - Field first-name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 888818610 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Users Pos - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 888818610 - Field 368085500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>first-name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Users Pos - Field last-name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 888818610 - Field 125965626 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operating Mode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Users Pos - Field Operating Mode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 888818610 - Field 2575460289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Users Pos - Field Password - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 888818610 - Field 555300569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Users Pos - Field PhoneNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3184485975 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activity Cash Register</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Activity Cash Register - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 991094377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Methods</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cash Payment Methods - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1339191004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Register</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cash Register - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1063696488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Register</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cash Register Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1063696488 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cash Register Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1063696488 - Control 577209412 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creation Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cash Register Card - Control SystemCreatedAt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1063696488 - Action 3095511041 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add Session</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cash Register Card - Action Add Session - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1063696488 - Action 3095511041 - Method 1377591017 - NamedType 230654827" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash register is inactive, you cant open a session.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cash Register Card - Action Add Session - Method OnAction - NamedType Error001</note>
+        </trans-unit>
+        <trans-unit id="Page 2424606293 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Register Management</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cash Register Management - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2424606293 - Action 2424606293 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Register Management</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cash Register Management - Action Cash Register Management - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2424606293 - Action 3143730963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activity Cash Register List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cash Register Management - Action Open Activity Cash Register - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2424606293 - Action 907897406 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Caisse</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cash Register Management - Action Open Caisse - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2424606293 - Action 1331743999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Users pos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cash Register Management - Action Open Cash Register User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2424606293 - Action 3138754614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Session</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cash Register Management - Action Open Session - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3048030651 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Register User</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cash Register User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3512780431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Register User Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cash Register User Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3512780431 - Control 1850829176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Access</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cash Register User Card - Control Access - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3512780431 - Control 1814464443 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cash Register User Card - Control User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2461787606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Create Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2461787606 - Control 3431103444 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Create Order - Control Customer Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2461787606 - Control 1357185566 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Create Order - Control Order Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2461787606 - Control 1384371723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Create Order - Control Session Part - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1168029726 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Session</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Session Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1168029726 - NamedType 651673532" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cant close the session, the status is put on hold</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Session Card - NamedType txt0</note>
+        </trans-unit>
+        <trans-unit id="Page 1168029726 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Session Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1168029726 - Action 1483275053 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Session Card - Action Closing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1168029726 - Action 3481546743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Session Card - Action Update status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1168029726 - Action 3409713080 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opening</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Session Card - Action Opening - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1168029726 - Action 1241598129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Put On Hold</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Session Card - Action Put On Hold - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1168029726 - Action 2461787606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Session Card - Action Create Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1821335367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Session</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sessions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 888818610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Users Pos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Users Pos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3200989535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Customer EXT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3200989535 - Control 1128980479 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Cash Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Customer EXT - Control Cash Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3566382434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Item List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Item List EXT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3566382434 - Control 1714534680 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Cash Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Item List EXT - Control Cash Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2646990905 - Control 2237399272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Cash Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Setup - Control Cash ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2646990905 - Control 2070199485 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Order Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Setup - Control Order Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2646990905 - Control 2897649021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Session Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Setup - Control Session Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3200989535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Cash Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Customer EXT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3200989535 - Field 1128980479 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Cash Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Customer EXT - Field Cash Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 833693361 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Cash Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Items EXT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 833693361 - Field 1714534680 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Cash Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Items EXT - Field Cash Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 974578394 - Field 2237399272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Cash Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Sales Setup EXT - Field Cash ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 974578394 - Field 2070199485 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Order Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Sales Setup EXT - Field Order Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 974578394 - Field 2897649021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Session Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Sales Setup EXT - Field Session Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2949200353 - Field 363586974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>Initial Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension User Setup EXT - Field Initial Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3426094571 - EnumValue 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Operational Cash - EnumValue Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3426094571 - EnumValue 525852245 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inactive</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Operational Cash - EnumValue Inactive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 513339096 - EnumValue 1778072510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Status - EnumValue Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 513339096 - EnumValue 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Status - EnumValue Open - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 513339096 - EnumValue 1241598129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Put On Hold</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Status - EnumValue Put On Hold - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
